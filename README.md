@@ -1,4 +1,6 @@
 docker-scientificlinux
 ======================
 
-Dockerfile for making ScientificLinux images for Docker with rinse
+Dockerfile for rolling ScientificLinux images for Docker with rinse
+
+Not really ready yet.
